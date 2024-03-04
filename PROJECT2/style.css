@@ -1,0 +1,9 @@
+.overall{
+    background-color: aliceblue;
+    text-align: center;
+}
+.button{
+    border-radius: 40px;
+    background-color: black;
+    color: turquoise;
+}
